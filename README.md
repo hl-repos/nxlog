@@ -4,7 +4,9 @@ Useful NxLog configuration examples that help to mobilze and centralize various 
 
 Windows Event Exports:
 
-OS Event Logs
-SysMon 5.x and 6.x Events
-Windows Firewall Events
-Microsoft IIS Events
+* OS Event Logs
+* SysMon 5.x and 6.x Events
+* Windows Firewall Events
+* Microsoft IIS Events
+
+By default these configurations JSON-format each event and use UDP transport outputs.
